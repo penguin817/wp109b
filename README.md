@@ -1,4 +1,4 @@
-https://www.nqu.edu.tw/cht/index.php?https://www.nqu.edu.tw/cht/index.php?#課程：網頁設計-習題專案
+#課程：網頁設計-習題專案
 
 欄位 | 內容
 -----|--------
